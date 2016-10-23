@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SPC.HMAC.Server
+</name>
+</assembly>
+<members>
+<member name="T:SPC.HMAC.Server.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SPC.HMAC.Server.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SPC.HMAC.Server.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SPC.HMAC.Server.Configuration.HMACKeyElement.name">
+ <summary>
+ can be used to identify who the key has been assigned to (e.g. which broker in the Isons Conveyance Portal)
+ </summary>
+ <returns></returns>
+</member>
+<member name="T:SPC.HMAC.Server.SPCAuthTokenAttribute">
+ <summary>
+ Obsolete - use HMAC authentication
+ </summary>
+ 
+</member>
+</members>
+</doc>

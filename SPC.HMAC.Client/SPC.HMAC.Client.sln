@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SPC.HMAC.Client", "SPC.HMAC.Client.vbproj", "{0365236F-7A8A-4673-AB86-0E694AD8EE2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0365236F-7A8A-4673-AB86-0E694AD8EE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0365236F-7A8A-4673-AB86-0E694AD8EE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0365236F-7A8A-4673-AB86-0E694AD8EE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0365236F-7A8A-4673-AB86-0E694AD8EE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
